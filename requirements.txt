@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+scikit-learn
+pdfminer.six
+pdf2image
+pytesseract
+Pillow
+spacy
+nltk
+joblib
+sqlalchemy
+python-dotenv
